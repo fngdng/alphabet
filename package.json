@@ -1,0 +1,22 @@
+{
+  "name": "alphabet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "core_opt.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fb-chat-api": "github:ntkhang03/fb-chat-api",
+    "fs": "^0.0.1-security",
+    "isomorphic-git": "^1.21.0",
+    "node-2fa": "^2.0.3",
+    "path": "^0.12.7",
+    "puppeteer": "^19.6.1",
+    "request": "^2.88.2",
+    "strip-bom": "^5.0.0"
+  }
+}
